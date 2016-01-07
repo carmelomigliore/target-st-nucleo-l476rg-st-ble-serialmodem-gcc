@@ -25,7 +25,7 @@
     "BLE",
     "x-nucleo-idb0xa1",
     "cellular",
-    "3G,
+    "3G",
     "serial",
     "modem"
   ],
