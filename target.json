@@ -1,0 +1,38 @@
+{
+  "name": "target-st-nucleo-l476rg-st-ble-serialmodem-gcc",
+  "version": "0.0.0",
+  "inherits": {
+    "st-nucleo-l476rg-gcc": "carmelomigliore/st-nucleo-l476rg-gcc"
+  },
+  "description": "Compound target: NUCLEO-L476RG plus X-NUCLEO-IDB0XA1 plus cellular serialmodem.",
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/Apache-2.0",
+      "type": "Apache-2.0"
+    }
+  ],
+  "toolchain": "CMake/toolchain.cmake",
+  "keywords": [
+    "nucleo-f401re",
+    "nucleo",
+    "x-nucleo",
+    "ST",
+    "STM",
+    "gcc",
+    "expansion",
+    "board",
+    "Bluetooth",
+    "BLE",
+    "x-nucleo-idb0xa1",
+    "cellular",
+    "3G,
+    "serial",
+    "modem"
+  ],
+  "similarTo": [
+    "st-ble-shield",
+    "serialmodem",
+    "/mbed-os/net/stacks/lwip",
+    "mbed-os"
+  ]
+}
