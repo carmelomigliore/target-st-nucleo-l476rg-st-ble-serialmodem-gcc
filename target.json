@@ -5,6 +5,7 @@
     "st-nucleo-l476rg-gcc": "carmelomigliore/st-nucleo-l476rg-gcc"
   },
   "description": "Compound target: NUCLEO-L476RG plus X-NUCLEO-IDB0XA1 plus cellular serialmodem.",
+  "author": "Carmelo Migliore <car.miglio@gmail.com>",
   "licenses": [
     {
       "url": "https://spdx.org/licenses/Apache-2.0",
